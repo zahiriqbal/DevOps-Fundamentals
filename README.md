@@ -1,1 +1,1 @@
-# face-detection-and-recognition
+# DevOps training
